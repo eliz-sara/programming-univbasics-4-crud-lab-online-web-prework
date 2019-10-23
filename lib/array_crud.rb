@@ -19,12 +19,16 @@ end
 p add_element_to_start_of_array
 
 def remove_element_from_end_of_array(array)
-  
+  sara = remove_element_from_end_of_array.pop
 end
 
+p remove_element_from_end_of_array
+
 def remove_element_from_start_of_array(array)
-  
+  lyrik = remove_element_from_start_of_array.shift
 end
+
+p remove_element_from_start_of_array
 
 def retrieve_element_from_index(array, index_number)
   
